@@ -39,7 +39,7 @@ header p {
 main {
   grid-area: main;
 }
-.destaque {
+.emphasis {
   width: 100%;
   height: 4.9rem;
   background: var(--color-3);
@@ -61,7 +61,7 @@ h1 {
   width: 100%;
   margin: auto;
 }
-.conteudo {
+.content {
   background: var(--color-5);
   max-width: 32.4rem;
   margin: auto;
@@ -75,7 +75,7 @@ h1 {
   line-height: 2rem;
   color: #23053A;
 }
-.conteudo img {
+.content img {
   width: 100%;
   border-radius: 22px;
   margin-bottom: 3.2rem;
@@ -152,7 +152,7 @@ p#footer span {
     opacity: 1;
   }
 }
-/* DESKTOP - 828px para não sobrepor uma imagem na outra*/
+/* DESKTOP - 828px Not to superimpose one image on the other*/
 @media (min-width:828px) {
   body {
     display: grid;
@@ -170,7 +170,7 @@ p#footer span {
   h1 {
     font-size: 3rem;
   }
-  .destaque {
+  .emphasis {
     height: 3rem;
   }
   header p {
@@ -200,14 +200,14 @@ p#footer span {
   #card1, #card2 {
     display: flex;
   }
-  .conteudo {
+  .content {
     height: 90vh;
     max-width: 70vw;
     display: inline-flex;
     grid-template-areas: 'col1' 'col2' 'col3';
     align-items: center;
   }
-  .conteudo img {
+  .content img {
     width: 12rem;
   }
   .col1, .col2, .col3 {
