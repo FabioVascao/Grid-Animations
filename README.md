@@ -10,7 +10,22 @@ Pay attention to the content that was taught in class. So, in this challenge, re
 - Animations and transitions, as seen in class;
 - Medium queries.
 
-### Screenshots
+## Screenshots
+
+![preview](preview.jpg)
 
 
+[🔗 Click here to access the Project](https://fabiovascao.github.io/Grid-Animations/)<br/> 
+[🔗 Click here to access Figma](https://www.figma.com/file/Pe7uutrNAEaUnub53wSKHU/Stage-03-Grid-com-anima%C3%A7%C3%B5es-Copy?fuid=1151137169943796805)
+
+## 🛠 Technologies
+
+- HTML5
+- CSS3
+- Git e Github
+
+
+## Author
+
+- [@FabioVascão](https://www.github.com/fabiovascao)
  
