@@ -24,7 +24,6 @@ Pay attention to the content that was taught in class. So, in this challenge, re
 - CSS3
 - Git e Github
 
-
 ## Author
 
 - [@FabioVascão](https://www.github.com/fabiovascao)
